@@ -1,0 +1,270 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* CCTVGuide */ = {
+		activeExec = 0;
+		executables = (
+			CBAFA2701233BD1C00CCF192 /* CCTVGuide */,
+		);
+	};
+	28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1086, 4550}}";
+			sepNavSelRange = "{998, 0}";
+			sepNavVisRange = "{226, 1449}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CBAFA2701233BD1C00CCF192 /* CCTVGuide */;
+		activeSDKPreference = iphonesimulator3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CCTVGuide */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CCTVGuide */,
+		);
+		breakpoints = (
+			CBAFA2921233BDA400CCF192 /* CCTVGuideViewController.m:115 */,
+		);
+		codeSenseManager = CBAFA2901233BD3400CCF192 /* Code sense */;
+		executables = (
+			CBAFA2701233BD1C00CCF192 /* CCTVGuide */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					908,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 305380636;
+			PBXWorkspaceStateSaveDate = 305380636;
+		};
+		perUserProjectItems = {
+			CBAFA2941233BDA800CCF192 /* PBXTextBookmark */ = CBAFA2941233BDA800CCF192 /* PBXTextBookmark */;
+			CBAFA2951233BDA800CCF192 /* PBXTextBookmark */ = CBAFA2951233BDA800CCF192 /* PBXTextBookmark */;
+			CBAFA29B1233BDBA00CCF192 /* PBXTextBookmark */ = CBAFA29B1233BDBA00CCF192 /* PBXTextBookmark */;
+			CBAFA2B31233BEBC00CCF192 /* PBXTextBookmark */ = CBAFA2B31233BEBC00CCF192 /* PBXTextBookmark */;
+			CBAFA2B71233BFBE00CCF192 /* PBXTextBookmark */ = CBAFA2B71233BFBE00CCF192 /* PBXTextBookmark */;
+			CBAFA2BB1233BFDA00CCF192 /* PBXTextBookmark */ = CBAFA2BB1233BFDA00CCF192 /* PBXTextBookmark */;
+			CBAFA2BD1233C00200CCF192 /* PBXTextBookmark */ = CBAFA2BD1233C00200CCF192 /* PBXTextBookmark */;
+			CBAFA2C21233C25000CCF192 /* PBXTextBookmark */ = CBAFA2C21233C25000CCF192 /* PBXTextBookmark */;
+			CBAFA2C81233C3BA00CCF192 /* PBXTextBookmark */ = CBAFA2C81233C3BA00CCF192 /* PBXTextBookmark */;
+			CBAFA2CB1233C41000CCF192 /* PBXTextBookmark */ = CBAFA2CB1233C41000CCF192 /* PBXTextBookmark */;
+			CBAFA2CE1233C42000CCF192 /* PBXTextBookmark */ = CBAFA2CE1233C42000CCF192 /* PBXTextBookmark */;
+			CBAFA2D11233C44800CCF192 /* PBXTextBookmark */ = CBAFA2D11233C44800CCF192 /* PBXTextBookmark */;
+			CBAFA2D21233C47600CCF192 /* PBXTextBookmark */ = CBAFA2D21233C47600CCF192 /* PBXTextBookmark */;
+		};
+		sourceControlManager = CBAFA28F1233BD3400CCF192 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	CBAFA2701233BD1C00CCF192 /* CCTVGuide */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CCTVGuide;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	CBAFA28F1233BD3400CCF192 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CBAFA2901233BD3400CCF192 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CBAFA2921233BDA400CCF192 /* CCTVGuideViewController.m:115 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */;
+		functionName = "-calculateFocalLength";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 115;
+		location = CCTVGuide;
+		modificationTime = 305381312.907647;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	CBAFA2941233BDA800CCF192 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */;
+		name = "CCTVGuideViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1267;
+		vrLoc = 3347;
+	};
+	CBAFA2951233BDA800CCF192 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */;
+		name = "CCTVGuideViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1266;
+		vrLoc = 3347;
+	};
+	CBAFA29B1233BDBA00CCF192 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */;
+		name = "CCTVGuideViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1297;
+		vrLoc = 3347;
+	};
+	CBAFA2B31233BEBC00CCF192 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */;
+		name = "CCTVGuideViewController.m: 105";
+		rLen = 0;
+		rLoc = 3618;
+		rType = 0;
+		vrLen = 1266;
+		vrLoc = 3347;
+	};
+	CBAFA2B71233BFBE00CCF192 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */;
+		name = "CCTVGuideViewController.m: 40";
+		rLen = 0;
+		rLoc = 969;
+		rType = 0;
+		vrLen = 1432;
+		vrLoc = 252;
+	};
+	CBAFA2BB1233BFDA00CCF192 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */;
+		name = "CCTVGuideViewController.m: 14";
+		rLen = 0;
+		rLoc = 248;
+		rType = 0;
+		vrLen = 1002;
+		vrLoc = 3;
+	};
+	CBAFA2BD1233C00200CCF192 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */;
+		name = "CCTVGuideViewController.m: 14";
+		rLen = 0;
+		rLoc = 248;
+		rType = 0;
+		vrLen = 1451;
+		vrLoc = 3160;
+	};
+	CBAFA2C21233C25000CCF192 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */;
+		name = "CCTVGuideViewController.m: 179";
+		rLen = 0;
+		rLoc = 6255;
+		rType = 0;
+		vrLen = 879;
+		vrLoc = 6108;
+	};
+	CBAFA2C81233C3BA00CCF192 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */;
+		name = "CCTVGuideViewController.m: 179";
+		rLen = 0;
+		rLoc = 6255;
+		rType = 0;
+		vrLen = 895;
+		vrLoc = 6108;
+	};
+	CBAFA2CB1233C41000CCF192 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */;
+		name = "CCTVGuideViewController.m: 197";
+		rLen = 0;
+		rLoc = 6612;
+		rType = 0;
+		vrLen = 898;
+		vrLoc = 6108;
+	};
+	CBAFA2CE1233C42000CCF192 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */;
+		name = "CCTVGuideViewController.m: 185";
+		rLen = 0;
+		rLoc = 6359;
+		rType = 0;
+		vrLen = 898;
+		vrLoc = 6108;
+	};
+	CBAFA2D11233C44800CCF192 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */;
+		name = "CCTVGuideViewController.m: 41";
+		rLen = 0;
+		rLoc = 998;
+		rType = 0;
+		vrLen = 1334;
+		vrLoc = 226;
+	};
+	CBAFA2D21233C47600CCF192 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */;
+		name = "CCTVGuideViewController.m: 41";
+		rLen = 0;
+		rLoc = 998;
+		rType = 0;
+		vrLen = 1449;
+		vrLoc = 226;
+	};
+}

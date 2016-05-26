@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>352x240 (CIF)</string>
+		<key>shortname</key>
+		<string>CIF</string>
+		<key>height</key>
+		<integer>352</integer>
+		<key>width</key>
+		<integer>240</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>704x240 (2CIF)</string>
+		<key>shortname</key>
+		<string>2CIF</string>
+		<key>height</key>
+		<integer>704</integer>
+		<key>width</key>
+		<integer>240</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>704x480 (4CIF/D1)</string>
+		<key>shortname</key>
+		<string>4CIF</string>
+		<key>height</key>
+		<integer>704</integer>
+		<key>width</key>
+		<integer>480</integer>
+	</dict>
+</array>
+</plist>

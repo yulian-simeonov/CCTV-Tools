@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>H.264</string>
+		<key>multiplier</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>MPEG 4</string>
+		<key>multiplier</key>
+		<real>1.5</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>MPEG 2</string>
+		<key>multiplier</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>MPEG 1</string>
+		<key>multiplier</key>
+		<real>1.2</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>MJPEG</string>
+		<key>multiplier</key>
+		<real>2.5</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>MPEG2000</string>
+		<key>multiplier</key>
+		<real>1.5</real>
+	</dict>
+</array>
+</plist>

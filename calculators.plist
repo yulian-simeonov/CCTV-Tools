@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Focal Length</string>
+		<key>description</key>
+		<string>focal length description</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Object Size</string>
+		<key>description</key>
+		<string>object size description</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Storage</string>
+		<key>description</key>
+		<string>storage description</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Duration</string>
+		<key>description</key>
+		<string>duration description</string>
+	</dict>
+</array>
+</plist>

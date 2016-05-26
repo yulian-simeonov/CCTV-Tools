@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0BEF5A7D-341F-450A-99AE-3A28566F8DC6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CCTVTools</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8BFECF89-0944-4890-B99D-FD1D3E2CC6A9</key>
+		<string>https://ruhe.svn.beanstalkapp.com/cctvtools</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/CCTVTools.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8BFECF89-0944-4890-B99D-FD1D3E2CC6A9</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>8BFECF89-0944-4890-B99D-FD1D3E2CC6A9</key>
+		<string>https://ruhe.svn.beanstalkapp.com/cctvtools</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://ruhe.svn.beanstalkapp.com/cctvtools/trunk/CCTVTools.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8BFECF89-0944-4890-B99D-FD1D3E2CC6A9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8BFECF89-0944-4890-B99D-FD1D3E2CC6A9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cctvtools</string>
+		</dict>
+	</array>
+</dict>
+</plist>

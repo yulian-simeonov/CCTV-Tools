@@ -1,0 +1,230 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CCTVToolsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1190, 785}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 486}";
+			sepNavWindowFrame = "{{38, 119}, {1249, 913}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CCTVToolsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1190, 785}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 680}";
+			sepNavWindowFrame = "{{15, 140}, {1249, 913}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CCTVTools */ = {
+		activeExec = 0;
+		executables = (
+			2C97544D126DB56200EAD4E1 /* CCTVTools */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* CCTVToolsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1190, 988}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{382, 1561}";
+			sepNavWindowFrame = "{{61, 98}, {1249, 913}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* CCTVToolsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1272, 5954}}";
+			sepNavSelRange = "{4582, 18}";
+			sepNavVisRange = "{3670, 2271}";
+			sepNavWindowFrame = "{{285, 92}, {1168, 913}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = armv7;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2C97544D126DB56200EAD4E1 /* CCTVTools */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CCTVTools */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CCTVTools */,
+		);
+		codeSenseManager = 2C975466126DB57700EAD4E1 /* Code sense */;
+		executables = (
+			2C97544D126DB56200EAD4E1 /* CCTVTools */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					711,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					662,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315136347;
+			PBXWorkspaceStateSaveDate = 315136347;
+		};
+		perUserProjectItems = {
+			2C9754BA126DC90400EAD4E1 /* PBXBookmark */ = 2C9754BA126DC90400EAD4E1 /* PBXBookmark */;
+			2C9754BB126DC90400EAD4E1 /* PBXBookmark */ = 2C9754BB126DC90400EAD4E1 /* PBXBookmark */;
+			2CB1EEBC12C899DA00D0185D /* PBXBookmark */ = 2CB1EEBC12C899DA00D0185D /* PBXBookmark */;
+			2CB1EEC412C89B8F00D0185D /* PlistBookmark */ = 2CB1EEC412C89B8F00D0185D /* PlistBookmark */;
+			2CB1EEC512C89B8F00D0185D /* PBXBookmark */ = 2CB1EEC512C89B8F00D0185D /* PBXBookmark */;
+			2CB1EEC812DBE6E500D0185D /* PlistBookmark */ = 2CB1EEC812DBE6E500D0185D /* PlistBookmark */;
+		};
+		sourceControlManager = 2C975465126DB57700EAD4E1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1109, 762}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 358}";
+			sepNavWindowFrame = "{{15, 140}, {1168, 913}}";
+		};
+	};
+	2C97544D126DB56200EAD4E1 /* CCTVTools */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CCTVTools;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2C975465126DB57700EAD4E1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2C975466126DB57700EAD4E1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2C9754BA126DC90400EAD4E1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2C9754A4126DBEBE00EAD4E1 /* Icon-Small@2x.png */;
+	};
+	2C9754BB126DC90400EAD4E1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2C9754AA126DC5DC00EAD4E1 /* doneDownL.png */;
+	};
+	2CB1EEBC12C899DA00D0185D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2C9754AC126DC5E000EAD4E1 /* doneUpL.png */;
+	};
+	2CB1EEC412C89B8F00D0185D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 2CB1EEB712C8998800D0185D /* Entitlements.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/michaelm/Desktop/CCTV Tools/Entitlements.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	2CB1EEC512C89B8F00D0185D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2D39856D128AFE0900D26271 /* resolution_pal.plist */;
+	};
+	2CB1EEC812DBE6E500D0185D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 2D39856D128AFE0900D26271 /* resolution_pal.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/michaelm/Desktop/CCTV Tools/resolution_pal.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	2D5E59BB126632B300449A9D /* AboutViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1209}}";
+			sepNavSelRange = "{1504, 282}";
+			sepNavVisRange = "{745, 1762}";
+			sepNavWindowFrame = "{{134, 70}, {1168, 913}}";
+		};
+	};
+	2D8C1F50126EFEFF0086F3D4 /* defaultAbout.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{61, 98}, {1249, 913}}";
+		};
+	};
+	2DDFE104126646CF00D9548E /* SettingsFirstLevel.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1872}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1720}";
+			sepNavWindowFrame = "{{61, 98}, {1168, 913}}";
+		};
+	};
+	8D1107310486CEB800E47090 /* CCTVTools-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 119}, {1249, 913}}";
+		};
+	};
+}

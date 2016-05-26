@@ -1,0 +1,235 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CCTVGuideAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 428}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 485}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CCTVGuide */ = {
+		activeExec = 0;
+		executables = (
+			B1796C4C123267EC003FDE15 /* CCTVGuide */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* CCTVGuideViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 754}}";
+			sepNavSelRange = "{1341, 0}";
+			sepNavVisRange = "{649, 692}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 4849}}";
+			sepNavSelRange = "{9777, 0}";
+			sepNavVisRange = "{8016, 983}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B1796C4C123267EC003FDE15 /* CCTVGuide */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CCTVGuide */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CCTVGuide */,
+		);
+		codeSenseManager = B1796C61123267FB003FDE15 /* Code sense */;
+		executables = (
+			B1796C4C123267EC003FDE15 /* CCTVGuide */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					807,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					919,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 305293292;
+			PBXWorkspaceStateSaveDate = 305293292;
+		};
+		perUserProjectItems = {
+			B1796C52123267FB003FDE15 /* PBXBookmark */ = B1796C52123267FB003FDE15 /* PBXBookmark */;
+			B1796C53123267FB003FDE15 /* PBXTextBookmark */ = B1796C53123267FB003FDE15 /* PBXTextBookmark */;
+			B1796C8812326958003FDE15 /* PBXTextBookmark */ = B1796C8812326958003FDE15 /* PBXTextBookmark */;
+			B1796C8912326958003FDE15 /* PBXTextBookmark */ = B1796C8912326958003FDE15 /* PBXTextBookmark */;
+			B1796C8A12326958003FDE15 /* PBXTextBookmark */ = B1796C8A12326958003FDE15 /* PBXTextBookmark */;
+			B1796C8B12326958003FDE15 /* PBXBookmark */ = B1796C8B12326958003FDE15 /* PBXBookmark */;
+			B1796C8C12326958003FDE15 /* PBXBookmark */ = B1796C8C12326958003FDE15 /* PBXBookmark */;
+			B1796C8D12326958003FDE15 /* PlistBookmark */ = B1796C8D12326958003FDE15 /* PlistBookmark */;
+			B1796C9212326A05003FDE15 /* PlistBookmark */ = B1796C9212326A05003FDE15 /* PlistBookmark */;
+			B1796C9312326A05003FDE15 /* PBXTextBookmark */ = B1796C9312326A05003FDE15 /* PBXTextBookmark */;
+			B1796C9412326A05003FDE15 /* PBXTextBookmark */ = B1796C9412326A05003FDE15 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B1796C60123267FB003FDE15 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B1796C4C123267EC003FDE15 /* CCTVGuide */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CCTVGuide;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B1796C52123267FB003FDE15 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CCTVGuideAppDelegate.h */;
+	};
+	B1796C53123267FB003FDE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CCTVGuideAppDelegate.h */;
+		name = "CCTVGuideAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 0;
+	};
+	B1796C60123267FB003FDE15 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B1796C61123267FB003FDE15 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B1796C8812326958003FDE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CCTVGuideAppDelegate.h */;
+		name = "CCTVGuideAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 0;
+	};
+	B1796C8912326958003FDE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CCTVGuideViewController.h */;
+		name = "CCTVGuideViewController.h: 58";
+		rLen = 0;
+		rLoc = 1341;
+		rType = 0;
+		vrLen = 692;
+		vrLoc = 649;
+	};
+	B1796C8A12326958003FDE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */;
+		name = "CCTVGuideViewController.m: 322";
+		rLen = 0;
+		rLoc = 9777;
+		rType = 0;
+		vrLen = 918;
+		vrLoc = 7885;
+	};
+	B1796C8B12326958003FDE15 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B1796C6D1232688D003FDE15 /* objectsize.gif */;
+	};
+	B1796C8C12326958003FDE15 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CCTVGuide-Info.plist */;
+	};
+	B1796C8D12326958003FDE15 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CCTVGuide-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Projects/temp 2/others/CCD/CCTVGuide/CCTVGuide-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	B1796C9212326A05003FDE15 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CCTVGuide-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Projects/temp 2/others/CCD/CCTVGuide/CCTVGuide-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	B1796C9312326A05003FDE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */;
+		name = "CCTVGuideViewController.m: 322";
+		rLen = 0;
+		rLoc = 9777;
+		rType = 0;
+		vrLen = 917;
+		vrLoc = 7886;
+	};
+	B1796C9412326A05003FDE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CCTVGuideViewController.m */;
+		name = "CCTVGuideViewController.m: 322";
+		rLen = 0;
+		rLoc = 9777;
+		rType = 0;
+		vrLen = 983;
+		vrLoc = 8016;
+	};
+}
